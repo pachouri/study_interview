@@ -10,8 +10,10 @@ This file stores import links for study & interview preparation.<br>
        https://www.geeksforgeeks.org/domain-driven-design-ddd/
 	 
 
-Java:
+<b>Java:</b>
 
-IoT:
+<b>IoT:</b>
+
+<b>Kafka Architecture: </b>
 
 
