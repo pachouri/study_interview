@@ -14,5 +14,5 @@ This file stores import links for study & interview preparation.<br>
 
 <b>IoT:</b>
 
-<b>Kafka Architecture: </b>
+<b>Kafka Architecture: </b> <br>
 https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN
