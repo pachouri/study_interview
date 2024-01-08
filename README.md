@@ -2,6 +2,7 @@
 This file stores import links for study & interview preparation.<br>
    <b>Cloud:</b></br>
    <b>AWS</b> 
+   <br> Solution Architect: https://www.youtube.com/watch?v=5gnoVjpfWxU&t=1664s
    <br>VPC & Subnet:<br>
           1. AWS VPC:  <br> https://www.whizlabs.com/blog/aws-vpc-interview-questions/ <br>
    <b>Azure</b><br>
