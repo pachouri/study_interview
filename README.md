@@ -7,6 +7,7 @@ This file stores import links for study & interview preparation.<br>
   <b>System Design</b>: <br>
   https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX </br>
      Domain Driven Design: https://www.geeksforgeeks.org/domain-driven-design-ddd/
+<br><b> Database Replicaiton</b>:https://www.youtube.com/watch?v=bI8Ry6GhMSE
 	 
 
 <b>Java:</b>
