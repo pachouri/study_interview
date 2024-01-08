@@ -1,8 +1,11 @@
 # study_interview
 This file stores import links for study & interview preparation.<br>
    <b>Cloud:</b></br>
-       AWS VPC & Subnet:<br>
+   <b>AWS</b> 
+   <br>VPC & Subnet:<br>
           1. AWS VPC:  <br> https://www.whizlabs.com/blog/aws-vpc-interview-questions/ <br>
+   <b>Azure</b><br>
+   <b>GCP</b><br>
        
   <b>System Design</b>: <br>
   https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX </br>
