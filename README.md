@@ -7,7 +7,8 @@ This file stores import links for study & interview preparation.<br>
   <b>System Design</b>: <br>
   https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX </br>
      Domain Driven Design: https://www.geeksforgeeks.org/domain-driven-design-ddd/
-<br>Database Replicaiton:https://www.youtube.com/watch?v=bI8Ry6GhMSE
+<br>Database Replicaiton:
+<br> Intro: https://www.youtube.com/watch?v=bI8Ry6GhMSE
 <br> Pattern: https://www.linkedin.com/advice/1/what-most-effective-database-replication-patterns-fhpte?trk=public_post_main-feed-card_feed-article-content#multi-master-replication
 <br> Multimater-master Replication: https://www.youtube.com/watch?v=jpgb9YVXlrg&t=61s
 	 
