@@ -2,7 +2,8 @@
 This file stores import links for study & interview preparation.<br>
    <b>Lates Technologies</b>
    <br> Apache Doris: https://doris.apache.org/
-   <b>Cloud:</b></br>
+   <br> https://medium.com/@ApacheDoris/from-elasticsearch-to-apache-doris-upgrading-an-observability-platform-1426251a6f72
+   <br> <b>Cloud:</b></br>
    <b>AWS</b> 
    <br> Solution Architect: https://www.youtube.com/watch?v=5gnoVjpfWxU&t=1664s
    <br>VPC & Subnet:<br>
