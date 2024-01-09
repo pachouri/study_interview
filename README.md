@@ -9,10 +9,7 @@ This file stores import links for study & interview preparation.<br>
    
    <b>AWS</b>
 
-     <table>
-     <tr><td> Solution Architect </td> <td>https://www.youtube.com/watch?v=5gnoVjpfWxU&t=1664s</td> </tr>   
-    
-    </table>
+     
  
    <b>Azure</b><br>
    <b>GCP</b><br>
