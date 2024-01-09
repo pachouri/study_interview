@@ -19,7 +19,11 @@ This file stores import links for study & interview preparation.<br>
    <b>Azure</b><br>
    <b>GCP</b><br>
        
-  <b>System Design</b>: <br>
+  <b>System Design</b> <br>
+  <table>
+	<tr><td>PlayList</td><td> https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX</td></tr>
+        <tr><td> Domain Driven Design</td><td>https://www.geeksforgeeks.org/domain-driven-design-ddd/</td><</tr>
+</table>
   https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX </br>
      Domain Driven Design: https://www.geeksforgeeks.org/domain-driven-design-ddd/
 
