@@ -20,4 +20,22 @@ Virtualazation in AWS:
 <br> EBS Snapshots: are used to backup, it will store in amazon S3.
 <br> Amazon Data Lifecycle Manager:
 <br>EBS Encryption: it is supported to volume.
-<br> <b> EFS:</b>
+<br> <b> EFS: Elastic File System</b>
+<br> Completely Managed, Lifecyle managment, secure, serverless, EFS shoule not present in same zome.
+<br> it can be use as a Content Management System.
+<br> <b> Public IP vs Elastic IP</b>:
+<br> Public IP : It is not associated with account, No charge, relaunch IP will change.
+<br> Elastic IP: it is associated with aws account, charges apply, elatic ip is static.
+<br> Elastic Network Interface:
+<br><b> Tenancy:</b>
+<br> Shared Intance, dedicated instace.
+<br> Cross Platform Placement Group: it look underlying hardware, 
+<br> Rserved Intance: Prebook instance, much discounted rate.
+<br> Spot Instances: Unused EC2 instance on demand price.
+<br> <b> FSx: File System</b>
+<br> FSx win, FSx Lutster, FSx Netapp
+<br> Hight Available, Fully Managed, Fast delivery, Easy intigration.
+<br> Features of FSx: DFS (Distributed file system)
+Namespace allow you to group.
+<br> FSx work with AD, Encryption, KMS, ISO, PCI-DSS, HIPPAA compilate.
+<br> 
