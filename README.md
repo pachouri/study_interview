@@ -5,12 +5,12 @@ This file stores import links for study & interview preparation.<br>
   <tr><td> Apache Doris</td><td>https://doris.apache.org/ <br>  https://medium.com/@ApacheDoris/from-elasticsearch-to-apache-doris-upgrading-an-observability-platform-1426251a6f7</td></tr>   
    </table>
    
-   <b>AWS</b> 
+   <b>AWS</b> <br>
 
      <table>
-  <tr><td> Solution Architect</td><td>https://www.youtube.com/watch?v=5gnoVjpfWxU&t=1664s</td></tr>   
-  <tr><td> VPC & Subnet </td><td> https://www.whizlabs.com/blog/aws-vpc-interview-questions/</td></tr>   
-   </table>
+     <tr><td> Solution Architect</td><td>https://www.youtube.com/watch?v=5gnoVjpfWxU&t=1664s</td></tr>   
+      <tr><td> VPC & Subnet </td><td> https://www.whizlabs.com/blog/aws-vpc-interview-questions/</td></tr>   
+    </table>
  
    <b>Azure</b><br>
    <b>GCP</b><br>
