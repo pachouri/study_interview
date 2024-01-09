@@ -10,7 +10,7 @@ This file stores import links for study & interview preparation.<br>
    <b>AWS</b>
 <table>
 	<tr><td>VPC & Subnet</td><td>https://www.whizlabs.com/blog/aws-vpc-interview-questions/</td></tr>
-        <tr><td>Solution Architect</td><td>https://www.youtube.com/watch?v=5gnoVjpfWxU&t=1664s</td><</tr>
+        <tr><td>Solution Architect</td><td>https://www.youtube.com/watch?v=5gnoVjpfWxU&t=1664s</td></tr>
 
 
 </table>
@@ -23,9 +23,8 @@ This file stores import links for study & interview preparation.<br>
   <table>
 	<tr><td>PlayList</td><td> https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX</td></tr>
         <tr><td> Domain Driven Design</td><td>https://www.geeksforgeeks.org/domain-driven-design-ddd/</td><</tr>
-</table>
-  https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX </br>
-     Domain Driven Design: https://www.geeksforgeeks.org/domain-driven-design-ddd/
+  </table>
+
 
  <br>    
 <br>Database Replicaiton:
