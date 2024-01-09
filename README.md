@@ -22,16 +22,16 @@ This file stores import links for study & interview preparation.<br>
   <b>System Design</b> <br>
   <table>
 	<tr><td>PlayList</td><td> https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX</td></tr>
-        <tr><td> Domain Driven Design</td><td>https://www.geeksforgeeks.org/domain-driven-design-ddd/</td><</tr>
+        <tr><td> Domain Driven Design</td><td>https://www.geeksforgeeks.org/domain-driven-design-ddd/</td></tr>
+	<tr><td> Database Replicaiton Intro</td><td> https://www.youtube.com/watch?v=bI8Ry6GhMSE </td></tr>
+	<tr><td> Database Replicaiton Intro</td><td> https://www.youtube.com/watch?v=bI8Ry6GhMSE <br> https://www.techtarget.com/searchdatamanagement/definition/database-replication </td></tr>
+	  <tr><td> Database Replicaiton Pattern</td><td> https://www.linkedin.com/advice/1/what-most-effective-database-replication-patterns-fhpte?trk=public_post_main-feed-card_feed-article-content#multi-master-replication </td></tr>
+        <tr><td> Multimater-master Replication</td><td> https://www.youtube.com/watch?v=jpgb9YVXlrg&t=61s </td></tr>
+	  
   </table>
 
 
- <br>    
-<br>Database Replicaiton:
-<br> Intro: https://www.youtube.com/watch?v=bI8Ry6GhMSE
-<br> https://www.techtarget.com/searchdatamanagement/definition/database-replication
-<br> Pattern: https://www.linkedin.com/advice/1/what-most-effective-database-replication-patterns-fhpte?trk=public_post_main-feed-card_feed-article-content#multi-master-replication
-<br> Multimater-master Replication: https://www.youtube.com/watch?v=jpgb9YVXlrg&t=61s
+
 	 
 
 <b>Java:</b>
