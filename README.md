@@ -8,7 +8,12 @@ This file stores import links for study & interview preparation.<br>
    </table>
    
    <b>AWS</b>
-<table><tr><td>VPC & Subnet</td><td>https://www.whizlabs.com/blog/aws-vpc-interview-questions/</td></td></tr></table>
+<table>
+	<tr><td>VPC & Subnet</td><td>https://www.whizlabs.com/blog/aws-vpc-interview-questions/</td></tr>
+        <tr><td>Solution Architect</td><td>https://www.youtube.com/watch?v=5gnoVjpfWxU&t=1664s</td><</tr>
+
+
+</table>
      
  
    <b>Azure</b><br>
