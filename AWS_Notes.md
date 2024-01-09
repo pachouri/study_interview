@@ -1,7 +1,7 @@
 Virtualazation in AWS: 
 <br>Hypervisor: Type1 & Type2
 <br> XEN Hypervisor: 
-<br> AWS vs Azure vs GCP: Aws have more availability zone, Old, 
+<br> AWS vs Azure vs GCP: Aws has more availability zone, Old, 
 <br> GCP is a leader in AI/ML.
 <br> EC2: Elastic compute cloud,  Various CPU, Memory, Storage available.
 <br> Combination of instance type: 
