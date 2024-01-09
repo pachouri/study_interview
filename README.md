@@ -1,11 +1,13 @@
 # study_interview
 This file stores import links for study & interview preparation.<br>
+  
+   
    <b>Latest Technologies</b>
    <table>
   <tr><td> Apache Doris</td><td>https://doris.apache.org/ <br>  https://medium.com/@ApacheDoris/from-elasticsearch-to-apache-doris-upgrading-an-observability-platform-1426251a6f7</td></tr>   
    </table>
    
-   <b>AWS</b> <br>
+   <b>AWS</b>
 
      <table>
      <tr><td> Solution Architect </td> <td>https://www.youtube.com/watch?v=5gnoVjpfWxU&t=1664s</td> </tr>   
