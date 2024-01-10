@@ -15,6 +15,7 @@ This file stores import links for study & interview preparation.<br>
 	<tr><td>VPC & Subnet</td><td>https://www.youtube.com/watch?v=bGDMeD6kOz0&t=9s</td></tr>
       <tr><td>AWS Services</td><td>https://sgitario.github.io/aws-certified-solutions-architect-summary</td></tr>
        <tr><td>AWS EC2</td><td>https://aws.amazon.com/ec2/</td></tr>
+        <tr><td>EKS</td><td>https://aws.amazon.com/eks/</td></tr>
 
 
 </table>
