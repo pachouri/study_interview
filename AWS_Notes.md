@@ -38,4 +38,10 @@ Virtualazation in AWS:
 <br> Features of FSx: DFS (Distributed file system)
 Namespace allow you to group.
 <br> FSx work with AD, Encryption, KMS, ISO, PCI-DSS, HIPPAA compilate.
-<br> 
+<br> VPC: Multiple availability zone, subnet is subset of vpc. 
+<br> NACL - Network Access Control List--> 
+<br> Security Group: 
+<br> Route Table
+<br> Private Subnet & Public Subnet: Public could be webserver while private could be database server.
+<br> Internet Gateway: 
+<br> Nat GateWay: Provide internet to private subnet.
