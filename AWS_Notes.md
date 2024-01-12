@@ -45,3 +45,7 @@ Namespace allow you to group.
 <br> Private Subnet & Public Subnet: Public could be webserver while private could be database server.
 <br> Internet Gateway: 
 <br> Nat GateWay: Provide internet to private subnet.
+<br> Amazon DynamoDB: is a fast and flexible noSQL DB.
+Single Digit Millisecond latency.
+<br> Amazon Redshift: Fully Managed Petabytes DB.
+<br>
