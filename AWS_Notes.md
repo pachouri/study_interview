@@ -48,4 +48,23 @@ Namespace allow you to group.
 <br> Amazon DynamoDB: is a fast and flexible noSQL DB.
 Single Digit Millisecond latency.
 <br> Amazon Redshift: Fully Managed Petabytes DB.
-<br>
+<br>Mangament Tools:  Amazon Cloudwatch, AWS Cloud Formation ( Appropirated Order). AWS Cloud Trail: is as web service that records AWS API Callls. IAM, KMS, WAF, API Gateway, Elastic Transcoder.  SNS, SES
+<br> Amazon Simple Email Service:
+<br> Simple Workflow Service:
+<br> Amazon Simple Queue Service:
+<br> <b> Amazon  Simple Storage Service</b>
+<br>Common use case for Amazon S3 storage:
+<br> --> Backup and archive for on-premises or cloud data
+<br> --> Content, media and software storage distribution
+<br> ---> Big data analysis
+<br> --> Cloud Native mobile host 
+<br> --> Disaster Recovery
+<br>S3 offer configuratble lifecycle polices & using it will be store in most appropriate storage class.
+<br> Amazon s3 operataion: create/delete a bucket, Write an object, read an object, delet an object, list keys in bucket.
+<br> It is support REST API also.
+<br> Storage Classes: Strandard, Standard-IA, RRS, Glacier
+<br> Object lifecycle management: Amazon S3 lifecycle management is roughly equivaltent to automated storage tiering.
+<br> We can write amazon storeage lifecycle rules.
+<br> Encryption: SSE-S3 (AWS Managed Keys), SSE-KMS, SSE-C (customer provided key).
+<br> 
+ 
