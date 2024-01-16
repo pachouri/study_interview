@@ -66,5 +66,21 @@ Single Digit Millisecond latency.
 <br> Object lifecycle management: Amazon S3 lifecycle management is roughly equivaltent to automated storage tiering.
 <br> We can write amazon storeage lifecycle rules.
 <br> Encryption: SSE-S3 (AWS Managed Keys), SSE-KMS, SSE-C (customer provided key).
-<br> 
+<br> <b>Amazon Machine Image</b>
+<br> Four Sources of AMI: Publish by AWS, AWS marketplace,  generate from existing instance, uploaded virtual servers.
+<br><b>The lifecycle of Instace:</b> Launching, Bootstrapping, VM Import/Export.
+<br> <b> Amazon Elastic Block Store</b>
+<br> <b> Amazon Virtual Private Cloud(VPC)</b>: Custom defined virtual private cloud.
+<br>An Amazon VPC consists of the fallowing component:
+<br> 1. Subnet
+<br> 2. Route Table
+<br> 3. Dynamic Host Configuration Protocol (DHCP)
+<br> 4. Security Group
+<br> 5. Network Access Control List(ACLs)
+
+
+
+
+
+
  
