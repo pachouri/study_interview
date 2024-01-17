@@ -17,6 +17,7 @@ This file stores import links for study & interview preparation.<br>
        <tr><td>AWS EC2</td><td>https://aws.amazon.com/ec2/</td></tr>
         <tr><td>EKS</td><td>https://aws.amazon.com/eks/</td></tr>
 	<tr><td>AWS Lamda</td><td>https://aws.amazon.com/lambda/</td></tr>
+        <tr><td>AWS IAM</td><td>https://www.youtube.com/watch?v=_ZCTvmaPgao&t=39s</td></tr>
 
 
 </table>
