@@ -39,7 +39,14 @@ This file stores import links for study & interview preparation.<br>
 	  
   </table>
 
-
+<br>
+       
+  <b>AI/ML</b> <br>
+  <table>
+	<tr><td>Basic LLM</td><td> https://www.youtube.com/watch?v=xI13d8YB6xQ&list=PLUNu4BtFTyVJOz3dmmOj23_b5fE_nuquw&index=1</td></tr>
+       
+	  
+  </table>
 
 	 
 
