@@ -36,6 +36,8 @@ This file stores import links for study & interview preparation.<br>
 	<tr><td> Database Replicaiton Intro</td><td> https://www.youtube.com/watch?v=bI8Ry6GhMSE <br> https://www.techtarget.com/searchdatamanagement/definition/database-replication </td></tr>
 	  <tr><td> Database Replicaiton Pattern</td><td> https://www.linkedin.com/advice/1/what-most-effective-database-replication-patterns-fhpte?trk=public_post_main-feed-card_feed-article-content#multi-master-replication </td></tr>
         <tr><td> Multimater-master Replication</td><td> https://www.youtube.com/watch?v=jpgb9YVXlrg&t=61s </td></tr>
+	 <tr><td> Solution Architect Interview</td><td> 
+	 https://www.youtube.com/watch?v=ZSnjNfHh_Wo&list=PLhkIK_6cR412zyIFXSRrquIWuFWRoReDH&index=2</td></tr>
 	  
   </table>
 
