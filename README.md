@@ -41,6 +41,7 @@ This file stores import links for study & interview preparation.<br>
        <tr><td> CAP Theorm</td><td> 
 	 https://www.youtube.com/watch?v=_RbsFXWRZ10</td></tr>
        <tr><td>Eventual Consitancy</td><td>https://www.youtube.com/watch?v=rpqsSkTIdAw</td></tr>
+       <tr><td>PlayList</td>td>https://www.youtube.com/watch?v=mhUQe4BKZXs&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV</td></tr>
 	  
   </table>
 
