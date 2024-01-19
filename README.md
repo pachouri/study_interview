@@ -38,6 +38,9 @@ This file stores import links for study & interview preparation.<br>
         <tr><td> Multimater-master Replication</td><td> https://www.youtube.com/watch?v=jpgb9YVXlrg&t=61s </td></tr>
 	 <tr><td> Solution Architect Interview</td><td> 
 	 https://www.youtube.com/watch?v=ZSnjNfHh_Wo&list=PLhkIK_6cR412zyIFXSRrquIWuFWRoReDH&index=2</td></tr>
+       <tr><td> CAP Theorm</td><td> 
+	 https://www.youtube.com/watch?v=_RbsFXWRZ10</td></tr>
+       <tr><td>Eventual Consitancy</td><td>https://www.youtube.com/watch?v=rpqsSkTIdAw</td></tr>
 	  
   </table>
 
