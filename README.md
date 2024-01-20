@@ -1,4 +1,4 @@
-# study_interview
+# System Design Interview
 This file stores import links for study & interview preparation.<br>
   
    
