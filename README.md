@@ -43,6 +43,7 @@ This file stores import links for study & interview preparation.<br>
        <tr><td>Eventual Consitancy</td><td>https://www.youtube.com/watch?v=rpqsSkTIdAw</td></tr>
        <tr> <td>PlayList</td><td>https://www.youtube.com/watch?v=mhUQe4BKZXs&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV</td></tr>
        <tr><td> High Availability vs Falut tolerance</td><td>https://www.youtube.com/watch?v=aotqZH_9x-w</td></tr>
+       <tr> <td>Load Balancer Algorith</td><td>https://www.youtube.com/watch?v=JqQ3OGQcOFY</td></tr>
 	  
   </table>
 
