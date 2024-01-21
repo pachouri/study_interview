@@ -45,7 +45,7 @@ This file stores import links for study & interview preparation.<br>
        <tr><td> High Availability vs Falut tolerance</td><td>https://www.youtube.com/watch?v=aotqZH_9x-w</td></tr>
        <tr> <td>Load Balancer Algorithm</td><td>https://www.youtube.com/watch?v=JqQ3OGQcOFY</td></tr>
        <tr><td>Back-Of-The-Envelope Estimation / Capacity Planning</td><td>https://www.youtube.com/watch?v=UC5xf8FbdJc</td></tr>
-       <tr><td>>Rate Limiter</td><td>https://www.youtube.com/watch?v=mhUQe4BKZXs</td></tr>
+       <tr><td>Rate Limiter</td><td>https://www.youtube.com/watch?v=mhUQe4BKZXs</td></tr>
 	  
   </table>
 
