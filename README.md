@@ -1,6 +1,6 @@
 # System Design Interview
 This file stores import links for study & interview preparation.<br>
-  
+//<tr><td></td><td></td></tr>
    
    <b>Latest Technologies</b>
    <table>
@@ -66,7 +66,11 @@ This file stores import links for study & interview preparation.<br>
 <b>IoT:</b>
 
 <b>Kafka Architecture: </b> <br>
-https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN
+<table>
+<tr><td></td>
+<td></td>https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN</td></tr>
+<tr><td>Message Squence</td><td>https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e</td></tr>
+</table>
 
 <b>Kubernetes Architecture: </b></br>
 https://www.youtube.com/watch?v=TlHvYWVUZyc
