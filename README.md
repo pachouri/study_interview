@@ -67,8 +67,8 @@ This file stores import links for study & interview preparation.<br>
 
 <b>Kafka Architecture: </b> <br>
 <table>
-<tr><td></td>
-<td></td>https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN</td></tr>
+<tr><td>Kakfa Architecture</td>
+<td>https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN</td></tr>
 <tr><td>Message Squence</td><td>https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e</td></tr>
 </table>
 
