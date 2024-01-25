@@ -20,8 +20,6 @@ This file stores import links for study & interview preparation.<br>
         <tr><td>AWS IAM</td><td>https://www.youtube.com/watch?v=_ZCTvmaPgao&t=39s</td></tr>
 	<tr><td>AWS Aurora</td><td>https://www.youtube.com/watch?v=ZCt3ctVfGIk&list=PLt1SIbA8guuusDOIqQuiFKerF_4_nQ_Xs&index=4</td></tr>
 	<tr><td>AWS ELB</td><td>https://www.youtube.com/watch?v=qpHLRc4Qt1E&list=PLt1SIbA8guuusDOIqQuiFKerF_4_nQ_Xs&index=6</td></tr>
-
-
 </table>
      
  
@@ -49,6 +47,10 @@ This file stores import links for study & interview preparation.<br>
        <tr><td>Consistance Hashing</td><td>https://www.youtube.com/watch?v=UF9Iqmg94tk&t=37s</td></tr>
 	  
   </table>
+<br>
+ <b>Design Pattern</b> <br>
+ <b>Microservices</b></br>
+ <table><tr><td></td><td></td></tr></table>
 
 <br>
        
