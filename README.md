@@ -51,7 +51,7 @@ This file stores import links for study & interview preparation.<br>
  <b>Design Pattern</b> <br>
  <b>Microservices</b></br>
  <table>
-          <tr><td>Service Discovery</td><td></td></tr>
+          <tr><td>Service Registry & Discovery</td><td>https://www.youtube.com/watch?v=LsJ1dw0qtWs</td></tr>
 	  <tr><td>API Gateway</td><td></td></tr>
 	  <tr><td>Circuit Breaker</td><td></td></tr>
 	  <tr><td>Fault Tolerance</td><td></td></tr>
