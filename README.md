@@ -59,14 +59,14 @@ This file stores import links for study & interview preparation.<br>
 	  <tr><td>Saga Pattern</td><td>https://www.youtube.com/watch?v=hkQhqDmriKA</td></tr>
 	  <tr><td>Event Sourcing</td><td>https://www.youtube.com/watch?v=i2eVTk2Fb40</td></tr>
 	  <tr><td>Command Query Responsibility Segregation (CQRS)</td><td>https://www.youtube.com/watch?v=i2eVTk2Fb40</td></tr>
-	  <tr><td>Event-Driven Architecture</td><td></td></tr>
+	  <tr><td>Event-Driven Architecture</td><td>https://www.youtube.com/watch?v=DQ5Cbt8DQbM</td></tr>
 	  <tr><td>Containerization</td><td></td></tr>
-	  <tr><td>Blue-Green Deployment</td><td></td></tr>
-	  <tr><td>Rolling Deployment</td><td></td></tr>
-	  <tr><td>Self-Contained Systems </td><td></td></tr>
+	  <tr><td>Blue-Green Deployment</td><td>https://www.youtube.com/watch?v=AWVTKBUnoIg</td></tr>
+	  <tr><td>Rolling Deployment</td><td>https://www.youtube.com/watch?v=AWVTKBUnoIg</td></tr>
+	  <tr><td>Self-Contained Systems </td><td>https://www.youtube.com/watch?v=xkQ9VaNTwxM</td></tr>
 	  <tr><td>Dependency Injection</td><td></td></tr>
 	  <tr><td>Data Replication</td><td></td></tr>
-	  <tr><td>Backends for Frontends (BFF)</td><td></td></tr> 
+	  <tr><td>Backends for Frontends (BFF)</td><td>https://www.youtube.com/watch?v=SSo-z16wEnc</td></tr> 
   </table>
 
 <br>
