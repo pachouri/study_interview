@@ -50,7 +50,24 @@ This file stores import links for study & interview preparation.<br>
 <br>
  <b>Design Pattern</b> <br>
  <b>Microservices</b></br>
- <table><tr><td></td><td></td></tr></table>
+ <table>
+          <tr><td>Service Discovery</td><td></td></tr>
+	  <tr><td>API Gateway</td><td></td></tr>
+	  <tr><td>Circuit Breaker</td><td></td></tr>
+	  <tr><td>Fault Tolerance</td><td></td></tr>
+	  <tr><td>Bulkhead</td><td></td></tr>
+	  <tr><td>Saga Pattern</td><td></td></tr>
+	  <tr><td>Event Sourcing</td><td></td></tr>
+	  <tr><td>Command Query Responsibility Segregation (CQRS)</td><td></td></tr>
+	  <tr><td>Event-Driven Architecture</td><td></td></tr>
+	  <tr><td>Containerization</td><td></td></tr>
+	  <tr><td>Blue-Green Deployment</td><td></td></tr>
+	  <tr><td>Rolling Deployment</td><td></td></tr>
+	  <tr><td>Self-Contained Systems </td><td></td></tr>
+	  <tr><td>Dependency Injection</td><td></td></tr>
+	  <tr><td>Data Replication</td><td></td></tr>
+	  <tr><td>Backends for Frontends (BFF)</td><td></td></tr> 
+  </table>
 
 <br>
        
