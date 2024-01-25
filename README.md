@@ -52,13 +52,13 @@ This file stores import links for study & interview preparation.<br>
  <b>Microservices</b></br>
  <table>
           <tr><td>Service Registry & Discovery</td><td>https://www.youtube.com/watch?v=LsJ1dw0qtWs</td></tr>
-	  <tr><td>API Gateway</td><td></td></tr>
-	  <tr><td>Circuit Breaker</td><td></td></tr>
+	  <tr><td>API Gateway</td><td>https://www.youtube.com/watch?v=5OMx4R9VT-0&t=2s</td></tr>
+	  <tr><td>Circuit Breaker</td><td>https://www.youtube.com/watch?v=HRS9mIfiNn4</td></tr>
 	  <tr><td>Fault Tolerance</td><td></td></tr>
-	  <tr><td>Bulkhead</td><td></td></tr>
-	  <tr><td>Saga Pattern</td><td></td></tr>
-	  <tr><td>Event Sourcing</td><td></td></tr>
-	  <tr><td>Command Query Responsibility Segregation (CQRS)</td><td></td></tr>
+	  <tr><td>Bulkhead</td><td>https://www.youtube.com/watch?v=R2FT5edyKOg</td></tr>
+	  <tr><td>Saga Pattern</td><td>https://www.youtube.com/watch?v=hkQhqDmriKA</td></tr>
+	  <tr><td>Event Sourcing</td><td>https://www.youtube.com/watch?v=i2eVTk2Fb40</td></tr>
+	  <tr><td>Command Query Responsibility Segregation (CQRS)</td><td>https://www.youtube.com/watch?v=i2eVTk2Fb40</td></tr>
 	  <tr><td>Event-Driven Architecture</td><td></td></tr>
 	  <tr><td>Containerization</td><td></td></tr>
 	  <tr><td>Blue-Green Deployment</td><td></td></tr>
