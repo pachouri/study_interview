@@ -281,6 +281,102 @@ Answer: Apigee is a powerful API management platform that offers various feature
 
 Remember, these best practices may vary depending on your specific use case and requirements. Always prioritize security, performance, and developer experience while leveraging Apigee's extensive feature set to manage your APIs effectively.
 
+Question 9: How to create API Proxy?
+https://www.youtube.com/watch?v=ZtINy7n9QRc&list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfpl2M&index=3
+
+Question 10: How to change Request Response Flow variable?
+https://www.youtube.com/watch?v=L3RF-au9gbs&list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfpl2M&index=4
+
+
+Question 11: What is API Proxy Flow?
+https://www.youtube.com/watch?v=wbNu0g26xPw&list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfpl2M&index=6
+Preflow, ConditionFlow, PostFlow
+
+Question 12:  What is APIGEE policy?
+
+https://www.youtube.com/watch?v=_B_y0gIT86o&list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfpl2M&index=7
+
+Apigee, which is now part of Google Cloud, offers a wide range of policies that can be applied to APIs (Application Programming Interfaces) managed through its platform. These policies provide functionalities such as security, transformation, traffic management, and analytics. Here's a brief overview of some common Apigee policies:
+
+Security Policies:
+
+OAuth2: Handles authentication and authorization using OAuth 2.0 protocol.
+Spike Arrest: Prevents API traffic spikes by limiting the number of requests processed per interval.
+Quota: Controls the number of API requests a client can make within a specific time period.
+API Key: Requires clients to include an API key in requests for authentication.
+JWT (JSON Web Token) Validation: Validates JWT tokens attached to requests.
+Transformation Policies:
+
+XML to JSON: Converts XML payloads to JSON format.
+JSON to XML: Converts JSON payloads to XML format.
+Message Logging: Logs API request and response messages for analytics and debugging.
+Traffic Management Policies:
+
+Spike Arrest: Controls the rate of traffic sent to an API backend to prevent overload.
+Concurrent Rate Limit: Limits the number of requests processed concurrently.
+Response Cache: Caches responses to reduce backend load and improve response times.
+Analytics Policies:
+
+Statistics Collector: Collects data for analytics purposes.
+Quota Alerts: Sends alerts when quota limits are reached.
+Custom Policies:
+
+Developers can also create custom policies using JavaScript or Java to implement specific functionality not covered by built-in policies.
+
+
+Question 12: What Apigee API Product?
+https://www.youtube.com/watch?v=HWRSKZwCwkY&list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfpl2M&index=9
+
+Apigee API Products are a key concept within the Apigee API management platform. An API product represents a bundle or collection of APIs that are packaged together with specific attributes and access controls. Think of API products as offerings that expose one or more APIs to developers and consumers, often tailored to meet specific use cases or customer segments.
+
+Here are some key aspects and functionalities of Apigee API Products:
+
+API Bundling: API products allow organizations to group related APIs together into logical units. For example, an e-commerce company might create an API product that includes APIs for product information, shopping cart functionality, and payment processing.
+
+Access Controls: API products enable organizations to enforce access controls and usage policies on their APIs. This includes defining authentication mechanisms (e.g., API keys, OAuth tokens) and rate limits for each API product.
+
+Monetization: Apigee API Products can be monetized, allowing organizations to create different tiers or plans with varying features and pricing models. This enables organizations to generate revenue by offering access to their APIs as products.
+
+Developer Engagement: API products facilitate developer engagement by providing a clear set of APIs with documentation, usage guidelines, and support resources. Developers can easily discover, subscribe to, and integrate with API products to build applications and services.
+
+Analytics and Monitoring: Apigee provides robust analytics and monitoring capabilities for API products. Organizations can track key metrics such as usage patterns, traffic volumes, error rates, and developer engagement to gain insights into how their APIs are being used and to optimize performance.
+
+Lifecycle Management: API products support the entire lifecycle of APIs, including versioning, deprecation, and retirement. Organizations can manage changes to APIs within their products while ensuring backward compatibility and minimizing disruption to developers and consumers.
+
+
+Question 13: How to cache & Scale data?
+
+https://www.youtube.com/watch?v=pEF_cnHCUzM&list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfpl2M&index=10
+
+
+Question 14: What is the difference between Spike Arrest vs Quota policy?
+Spike Arrest and Quota policies are both used in API management to control and manage traffic to APIs, but they serve slightly different purposes and operate in different ways:
+
+Spike Arrest Policy:
+
+Spike Arrest is used to prevent sudden spikes or bursts of traffic to an API endpoint.
+It limits the number of requests processed per interval to smooth out traffic spikes and prevent overloading the backend systems.
+Spike Arrest policies typically define a maximum number of requests allowed within a specific time window (e.g., 10 requests per second).
+When the limit is reached, excess requests are throttled or delayed until the next interval.
+Quota Policy:
+
+Quota policies are used to limit the total number of requests that can be made to an API within a defined period.
+Quotas are typically set on a per-client basis and may be enforced using various criteria such as API key, client ID, or user identity.
+Unlike Spike Arrest, which focuses on limiting the rate of requests per interval, Quota policies limit the total number of requests over a longer period, such as per day or per month.
+Once the quota limit is reached, further requests from the client may be rejected or throttled until the quota resets.
+
+
+Question 15: How to setup Quota Policy - Distributed & Synchronous?
+https://www.youtube.com/watch?v=3Vw-P5WdOyk&list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfpl2M&index=15
+
+
+
+
+
+
+
+
+
 
 
 
